@@ -27,8 +27,8 @@
 ## Установка
 
 ```bash
-git clone https://github.com/<ваш_логин>/geometric_lib.git
-cd geometric_lib
+git clone https://github.com/Tsygankova-Maria/ISRPO_rep.git
+cd ISRPO_rep
 ```
 
 ## Быстрый старт
